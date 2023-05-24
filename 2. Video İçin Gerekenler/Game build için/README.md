@@ -5,19 +5,19 @@
 
 # Game build kodları
 
-*game için*
+`game için`
 
-cd /root/MRYF_GameSrc/Server/game/src/
-gmake clean
-gmake dep
-gmake -j20
+- cd /root/MRYF_GameSrc/Server/game/src/
+- gmake clean
+- gmake dep
+- gmake -j20
 
-*db için*
-cd /root/MRYF_GameSrc/Server/db/src/
-gmake clean
-gmake dep
-gmake -j20
+`db için`
+- cd /root/MRYF_GameSrc/Server/db/src/
+- gmake clean
+- gmake dep
+- gmake -j20
 
-*hem game hem db için*
-cd /root/MRYF_GameSrc/Server/
-gmake all
+`hem game hem db için`
+- cd /root/MRYF_GameSrc/Server/
+- gmake all
