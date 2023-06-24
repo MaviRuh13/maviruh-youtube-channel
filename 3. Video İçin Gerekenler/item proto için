@@ -1,5 +1,5 @@
-# İtem özellikleri hakkında bilgi
-```
+İtem özellikleri hakkında bilgi
+
 APPLY_MAX_HP : Max HP
 APPLY_MAX_SP : Max SP
 APPLY_CON : Canlılık
@@ -92,4 +92,3 @@ APPLY_RESIST_EARTH : Dünya Direnci
 APPLY_RESIST_DARK : Karanlık Direnci
 APPLY_ANTI_CRITICAL_PCT : Kritik Vuruş Direnci
 APPLY_ANTI_PENETRATE_PCT : Delici Vuruş Direnci
-```
