@@ -1,0 +1,95 @@
+# İtem özellikleri hakkında bilgi
+```
+APPLY_MAX_HP : Max HP
+APPLY_MAX_SP : Max SP
+APPLY_CON : Canlılık
+APPLY_INT : Zeka
+APPLY_STR : Güç
+APPLY_DEX : Çeviklik
+APPLY_ATT_SPEED : Saldırı Hızı
+APPLY_MOV_SPEED : Hareket Hızı
+APPLY_CAST_SPEED : Büyü Hızı
+APPLY_HP_REGEN : Hp Üretimi
+APPLY_SP_REGEN : SP Üretimi
+APPLY_POISON_PCT : Zehirleme Değişimi
+APPLY_BLEEDING_PCT : Kanama Saldırısı
+APPLY_STUN_PCT : Sersemletme Şansı
+APPLY_SLOW_PCT : Yavaşlatma Şansı
+APPLY_CRITICAL_PCT : Kritik Vuruş
+APPLY_PENETRATE_PCT : Delici Vuruş
+APPLY_ATTBONUS_WARRIOR : Savasçılara karşı güçlü
+APPLY_ATTBONUS_ASSASSIN : Ninja karşı güçlü
+APPLY_ATTBONUS_SURA : Sura karşı güçlü
+APPLY_ATTBONUS_SHAMAN : Şaman karşı güçlü
+APPLY_ATTBONUS_WOLFMAN : Lycanlar'a karşı güçlü
+APPLY_ATTBONUS_MONSTER : Canavarlara karşı güçlü
+APPLY_ATTBONUS_HUMAN : Yarı insanlara karşı güçlü
+APPLY_ATTBONUS_ANIMAL : Hayvanlara karşı güçlü
+APPLY_ATTBONUS_ORC : Orklara karşı güçlü
+APPLY_ATTBONUS_MILGYO : Mistiklere karşı güçlü
+APPLY_ATTBONUS_UNDEAD : Ölümsüzlere karşı güçlü
+APPLY_ATTBONUS_DEVIL : Şeytanlara karşı güçlü
+APPLY_STEAL_HP : HP adsorbe
+APPLY_STEAL_SP : SP adsorbe
+APPLY_MANA_BURN_PCT : SP çalma şansı
+APPLY_DAMAGE_SP_RECOVER : Sp geri kazanım şansı
+APPLY_BLOCK : Yakın dövüş saldırıları bloklama şansı
+APPLY_DODGE : Oklardan korunma şansı
+APPLY_RESIST_SWORD : Kılıç savunması
+APPLY_RESIST_TWOHAND : Çiftel savunması
+APPLY_RESIST_DAGGER : Bıçak savunması
+APPLY_RESIST_BELL : Çan savunması
+APPLY_RESIST_FAN : Yelpaze savunması
+APPLY_RESIST_BOW : Ok savunması
+APPLY_RESIST_CLAW : Pençelerde savunma şansı
+APPLY_RESIST_FIRE : Ateşe karşı dayanıklılık
+APPLY_RESIST_ELEC : Şimseğe karşı dayanıklılık
+APPLY_RESIST_MAGIC : Büyüye karşı dayanıklılık
+APPLY_RESIST_WIND : Rüzgar Dayanıklılığı
+APPLY_REFLECT_MELEE : Yakın dövüş vuruşlarını yansıtma şansı
+APPLY_REFLECT_CURSE : Lanet yansıtılması
+APPLY_POISON_REDUCE : Zehre karşı koyma
+APPLY_BLEEDING_REDUCE : Kanama saldırılarında direnç
+APPLY_KILL_SP_RECOVER : SP yüklemesi
+APPLY_EXP_DOUBLE_BONUS : EXP Bonus şansı
+APPLY_GOLD_DOUBLE_BONUS : İki kat Yang düşme şansı
+APPLY_ITEM_DROP_BONUS : iki Kat eşya düşme şansı
+APPLY_POTION_BONUS : İksir etkisi
+APPLY_KILL_HP_RECOVER : HP yüklemesi
+APPLY_IMMUNE_STUN : Sersemlik karşısında bağışıklık
+APPLY_IMMUNE_SLOW : Yavaşlama karşısında bağışıklık
+APPLY_IMMUNE_FALL : Yere düşme karşısında bağışıklık
+APPLY_BOW_DISTANCE : Yay Menzili
+APPLY_DEF_GRADE_BONUS : Savunma
+APPLY_ATT_GRADE_BONUS : Saldırı Değeri
+APPLY_MAGIC_ATT_GRADE : Büyülü Saldırı Değeri
+APPLY_MAGIC_DEF_GRADE : Büyü Savunması
+APPLY_MAX_STAMINA : Max. Dayanıklılık
+APPLY_MALL_ATTBONUS : Saldırı Değeri
+APPLY_MALL_DEFBONUS : Savunma
+APPLY_MALL_EXPBONUS : EXP Bonus
+APPLY_MALL_ITEMBONUS : Elde edilen nesne katsayısı..
+APPLY_MALL_GOLDBONUS : Elde edilen yang kat sayısı..
+APPLY_SKILL_DAMAGE_BONUS : Beceri Hasarı
+APPLY_NORMAL_HIT_DAMAGE_BONUS : Ortalama Zarar
+APPLY_SKILL_DEFEND_BONUS : Beceri hasarına karşı koyma
+APPLY_NORMAL_HIT_DEFEND_BONUS : Ortalama Zarara Direniş
+APPLY_PC_BANG_EXP_BONUS : iCafe exp bonus
+APPLY_PC_BANG_DROP_BONUS : iCafe item bonus
+APPLY_RESIST_WARRIOR : Savaşçı saldırılarına karşı savunma şansı
+APPLY_RESIST_ASSASSIN : Ninja saldırılarına karşı savunma şansı
+APPLY_RESIST_SURA : Sura saldırılarına karşı savunma şansı
+APPLY_RESIST_SHAMAN : Şaman saldırılarına karşı savunma şansı
+APPLY_RESIST_WOLFMAN : Lycanlar'a karşı savunma şansı
+APPLY_MAX_HP_PCT : Maks. HP
+APPLY_MAX_SP_PCT : Maks. SP
+APPLY_ENERGY : Enerji
+APPLY_COSTUME_ATTR_BONUS : Kostüm bonusu
+APPLY_MAGIC_ATTBONUS_PER : Büyü Saldırı
+APPLY_MELEE_MAGIC_ATTBONUS_PER : Büyü Saldırı / Yakın Dövüş Saldırı
+APPLY_RESIST_ICE : Buz Direnci
+APPLY_RESIST_EARTH : Dünya Direnci
+APPLY_RESIST_DARK : Karanlık Direnci
+APPLY_ANTI_CRITICAL_PCT : Kritik Vuruş Direnci
+APPLY_ANTI_PENETRATE_PCT : Delici Vuruş Direnci
+```
